@@ -1,6 +1,7 @@
 # Top 1000 YouTube Channels Analysis for Marketing Campaigns
 
 ## Overview
+![Tableau Youtuber Marketing Campaign](Screenshots/Story1.png)
 
 This project is an analysis of the top 1000 YouTube channels, conducted to inform marketing campaign strategies. The Tableau dashboard provides insights into key metrics like subscriber count, viewership, engagement rates, and content types, which can help marketers make data-driven decisions when selecting influencers or channels for advertising purposes.
 
